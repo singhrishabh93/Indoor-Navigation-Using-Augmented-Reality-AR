@@ -1,4 +1,4 @@
-# AR Indoor Navigation
+# AR Indoor Navigation HackBIOS Hackathon 5.0
 
 This is the corresponding github repository for the short tutorial series about "How to create an indoor navigation app with ARFoundation WITHOUT the usage of Cloud Anchors or using ARPointCloud Data.". Using additional functionality with Unitys NavMesh + multiple navigation targets and world recentering with ZXing QRCode reading. :)
 
